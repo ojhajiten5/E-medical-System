@@ -3,7 +3,7 @@ Project on Bio-Medical &amp; Hospital sector which is covering various field of 
 
 # Docker Integration
 
-# Youtube Link : https://youtu.be/bGM6xkhz0cU
+
 
 [![Build Status](https://travis-ci.org/codecentric/springboot-sample-app.svg?branch=master)](https://travis-ci.org/codecentric/springboot-sample-app)
 [![Coverage Status](https://coveralls.io/repos/github/codecentric/springboot-sample-app/badge.svg?branch=master)](https://coveralls.io/github/codecentric/springboot-sample-app?branch=master)
